@@ -1,8 +1,8 @@
-build:
+hod mbuild:
   version: "1.0"
 
 accounts:
-  message: "Welcome to EazyBank accounts related production APIs "
+  message: "Welcome to EazyBank accounts related production match method APIs "
   contactDetails:
     name: "Reine Aishwarya - Product Owner"
     email: "{cipher}3a6246aa5717e5a27499250c45577d00f234312e2325bd84933665b18f5cf753358ec2eb74d7adc7ca7fe9cffdd69ef9"
